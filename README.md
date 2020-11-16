@@ -1,6 +1,6 @@
-<h1 align="center">👨‍💻 HackerRank</h1>
+<h1 align="center">👨‍💻 Challenge</h1>
 
-> This repository contains all my solutions on the HackerRank website.
+> This repository contains all my solutions on the HackerRank and BattleDev website.
 
 ### 🏠 [Profile on HackerRank](https://www.hackerrank.com/mboultoureau)
 
