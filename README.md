@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Challenge</h1>
+<h1 align="center">👨‍💻 Challenges</h1>
 
 > This repository contains all my solutions on the HackerRank and BattleDev website.
 
